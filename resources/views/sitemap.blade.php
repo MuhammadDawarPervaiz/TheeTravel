@@ -1,0 +1,2512 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://theetravel.com/</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/customer/login</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/register</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/Africa</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/Asia</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/Europe</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/North_America</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/Oceania</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/South_America</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/faq</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/terms-and-conditions</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/about-us</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/contact-us</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/inquiry_form</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/sitemap</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/customer/password/reset</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/home</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/Africa/Cape_town</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/Africa/Abuja_Nigeria</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/Africa/Lilongwe_malawi</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/Africa/East_London</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/Africa/Free_Town</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/Africa/Accra_ghana</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/Africa/Addis_ababa_ethiopia</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/Africa/Agadir_Morocco</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/Africa/Algiers_algeria</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/Africa/Antananarivo</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/Africa/Athens</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/Africa/Bangui</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/Africa/Banjul</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/Africa/Blantyre_malawi</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/Africa/Bloemfontein</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/Africa/Brazzaville_Congo</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/Africa/Bujumbura</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/Africa/Bulawayo</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/Africa/Cairo</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/Africa/Casablanca_morocco</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/Africa/Conakry</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/Africa/Contonou</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/Africa/Dakar_Senegal</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/Africa/Dar_Es_salaam</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/Africa/Djibouti</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/Africa/Douala_cameroon</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/Africa/Durban</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/Africa/Eldoret</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/Africa/Entebbe</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/Africa/Gaborone</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/Africa/George_Botswana</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/Africa/Harare</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/Africa/johannesburg</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/Africa/Kano_Nigeria</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/Africa/Khartoum_sudan</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/Africa/Kigali</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/Africa/Kilimanjaro</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/Africa/Kimberly</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/Africa/Kinshasa</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/Africa/Kisumu</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/Africa/Lagos</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/Africa/Libreville</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/Africa/Lome_togo</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/Africa/Luanda_angola</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/Africa/Lubumbashi</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/Africa/Lusaka</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/Africa/Mahe_seychelles</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/Africa/Malabo</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/Africa/Malindi</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/Africa/Manzini</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/Africa/Maputo_mozambique</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/Africa/Marrakech_morocco</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/Africa/Mauritius</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/Africa/Mombasa_kenya</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/Africa/Monrovia</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/Africa/Moroni</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/Africa/N_djamena_city</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/Africa/Nairobi</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/Africa/Ndola</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/Africa/Ouagadougou</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/Africa/Pointe_noire</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/Africa/Port_elizabeth</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/Africa/Port_Harcourt</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/Africa/Sal_Cape_Verde</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/Africa/Sao_tome_and_principe</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/Africa/Tunis</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/Africa/Victoria_falls</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/Africa/Windhoek</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/Africa/Yaounde</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/Africa/Zanzibar</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/index.html</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/theetravel.com</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/meddytechnology.com</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/Asia/Lahore</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/Asia/Karachi</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/Asia/Islamabad</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/Asia/Delhi</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/Asia/Mumbai_Bombay</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/Asia/Bangkok</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/Asia/Beijing</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/Asia/Abha</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/Asia/Abu_Dhabi</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/Asia/Aden</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/Asia/Ahmedabad</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/Asia/Amritsar</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/Asia/Atyrau</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/Asia/Bahrain</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/Asia/Baku</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/Asia/Bandar_seri_B</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/Asia/Bangalore</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/Asia/Calcutta</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/Asia/Calicut</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/Asia/Cebu</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/Asia/Changchun</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/Asia/Chiang_mai</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/Asia/Chiang_Rai</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/Asia/Chittagong</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/Asia/Chongqing</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/Asia/Cochin</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/Asia/Colombo</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/Asia/Dalian_Pr</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/Asia/Dammam</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/Asia/Denpasar</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/Asia/Dhaka</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/Asia/Doha</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/Asia/Dubai</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/Asia/Fukuoka</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/Asia/Fuzhou</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/Asia/Goa</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/Asia/Guangzhou</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/Asia/Hangzhou</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/Asia/Hanoi</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/Asia/Harbin</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/Asia/Ho_chi_Minh_City</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/Asia/Hong_Kong</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/Asia/Hyderabad</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/Asia/Jakarta</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/Asia/Jeddah</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/Asia/Johar_Baru</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/Asia/Kansai_Osaka</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/Asia/Kaohsiung</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/Asia/Kathmandu</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/Asia/Kochi</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/Asia/Koh_samui</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/Asia/Kota_Kinabalu</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/Asia/Krabi</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/Asia/Kuala_lumpur</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/Asia/Kuantan</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/Asia/Kuching</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/Asia/Kunming</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/Asia/Kuwait</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/Asia/Langkawi</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/Asia/Macau</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/Asia/Madina</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/Asia/Madras</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/Asia/Male_city</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/Asia/Mangalore</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/Asia/Manila</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/Asia/Muscat</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/Asia/Nagoya</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/Asia/Nanjing</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/Asia/Ningbo</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/Asia/Osaka</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/Asia/Penang</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/Asia/Peshawar</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/Asia/Phnom_Penh</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/Asia/Phuket</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/Asia/Qingdao</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/Asia/Riyadh</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/Asia/Sapporo</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/Asia/Sendai</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/Asia/Seoul</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/Asia/Shanghai</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/Asia/Shenzhen</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/Asia/Siem_reap</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/Asia/Singapore</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/Asia/Sukhothai</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/Asia/Surabaya</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/Asia/Sylhet</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/Asia/Taipei</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/Asia/Tel_Aviv</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/Asia/Tianjin</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/Asia/Tokyo</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/Asia/Trang</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/Asia/Trat</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/Asia/Trivandrum</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/Asia/Vientiane</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/Asia/Wuhan</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/Europe/Barcelona</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/Europe/Paris</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/Europe/Munich</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/Europe/Istanbul</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/Europe/Berlin</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/Europe/Alicante</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/Europe/Ambon</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/Europe/Amsterdam</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/Europe/Antalya</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/Europe/Athens</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/Europe/Bremen</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/Europe/Budapest</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/Europe/Cologne</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/Europe/Copenhagen</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/Europe/Dresden</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/Europe/Dublin</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/Europe/Dusseldorf</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/Europe/Florence_EU</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/Europe/Frankfurt</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/Europe/Friedrichshafen</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/Europe/Genoa</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/Europe/Hamburg</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/Europe/Hanover</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/Europe/Leipzig</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/Europe/Lisbon</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/Europe/Maastricht</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/Europe/Milan</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/Europe/Munster</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/Europe/Nuremberg</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/Europe/Paderborn</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/Europe/Pristina</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/Europe/Rome</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/Europe/Sofia</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/Europe/Stuttgart</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/Europe/Tirtana</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/Europe/Venice</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/Europe/Zurich</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/North_America/New_York</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/North_America/Washington</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/North_America/Chicago_Midway_USA</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/North_America/Atlanta</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/North_America/Appleton</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/North_America/Mexico_City</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/North_America/Abuja_Nigeria</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/North_America/Acapulco</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/North_America/Aguascalientes</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/North_America/Akron_Canton</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/North_America/Albany_NY</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/North_America/Albuquerque</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/North_America/Alexandria</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/North_America/Allentown</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/North_America/Altoona</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/North_America/Amarillo</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/North_America/Anchorage</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/North_America/Antigua</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/North_America/Arcata</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/North_America/Asheville</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/North_America/Asmara</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/North_America/Aspen</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/North_America/Austin_USA</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/North_America/Bakersfield_USA</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/North_America/Baltimore</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/North_America/Bamako_Mali</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/North_America/Bangui</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/North_America/Barbados</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/North_America/Baton_Rouge</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/North_America/Billings</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/North_America/Binghamton</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/North_America/Birmingham_USA</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/North_America/Bismarck</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/North_America/Blantyre_malawi</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/North_America/Boise</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/North_America/Boston</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/North_America/Bozeman</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/North_America/Brownsville</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/North_America/Buffalo_USA</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/North_America/Burbank_USA</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/North_America/Burlington_VT_USA</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/North_America/Calgary</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/North_America/Campbell_River</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/North_America/Cancun</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/North_America/Carlsbad</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/North_America/Casper</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/North_America/Castlegar</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/North_America/Cedar_Rapids</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/North_America/Charleston_SC_USA</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/North_America/Charleston_WV_USA</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/North_America/Charlotte_USA</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/North_America/Charlottesville_VA_USA</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/North_America/Charlottetown_PE</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/North_America/Chicago_O_Hare_USA</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/North_America/Chico_CA</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/North_America/Chihuahua_Mexico</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/North_America/Cincinnati</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/North_America/Clarksburg_USA</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/North_America/Cleveland</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/North_America/Cody</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/North_America/College_Station_USA</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/North_America/Colorado_Co</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/North_America/Columbia_SC_USA</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/North_America/Columbus_Ohio_USA</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/North_America/Comox</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/North_America/Corpus_Christi_USA</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/North_America/Crescent_City_CA_USA</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/North_America/Dakar_Senegal</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/North_America/Dallas_USA</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/North_America/Dayton_USA</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/North_America/Deer_Lake_NF</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/North_America/Denver</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/North_America/Des_Moines_USA</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/North_America/Detroit_Wayne_USA</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/North_America/Duluth_USA</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/North_America/Durango_USA</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/North_America/Eagle_USA</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/North_America/Eau_Claire_USA</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/North_America/Edmonton_Canada</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/North_America/El_Paso</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/North_America/Eugene</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/North_America/Fargo</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/North_America/Fayetteville</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/North_America/Florence_SC_USA</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/North_America/Fort_lauderdale</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/North_America/Fort_mcmurray</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/North_America/Fort_Myers_page</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/North_America/Fort_St_john</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/North_America/Fort_Wayne</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/North_America/Fredericton</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/North_America/Fresno_CA</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/North_America/Goose_Bay_NF_Canada</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/North_America/Grand_Cayman</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/North_America/Grand_junction</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/North_America/Grand_Rapids</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/North_America/Grande_Prairie</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/North_America/Great_falls</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/North_America/Green_bay</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/North_America/Green_Ville_SC</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/North_America/Greensboro</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/North_America/Grenada</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/North_America/Guadalajara</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/North_America/Guam</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/North_America/Guatemala</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/North_America/Gulfport</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/North_America/Gunnison</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/North_America/Halifax</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/North_America/Hancock_Michigan</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/North_America/Harlingen</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/North_America/Harrisburg_PA</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/North_America/Hartford</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/North_America/Hayden</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/North_America/Helena</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/North_America/Hilo_Hawaii</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/North_America/Honolulu</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/North_America/Houston</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/North_America/Huntsville_Al</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/North_America/Idaho_Falls</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/North_America/Imperial_Ca</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/North_America/Indianapolis</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/North_America/Inyokern</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/North_America/Jackson_Ville</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/North_America/Kahului</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/North_America/kalispell_Mt</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/North_America/Kamloops</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/North_America/Kansas</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/North_America/Kauai_Island</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/North_America/Kelowna</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/North_America/Key_West_FL_USA</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/North_America/Kingston</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/North_America/Kingston_Canada</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/North_America/Klamath_falls</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/North_America/Knoxville</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/North_America/Kona</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/North_America/La_Paz_El_Alto_Bolivia</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/North_America/La_Paz_Mexico</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/North_America/Lafayette_LA</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/North_America/Lake_Charles_LA</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/North_America/Lansing_Capital_City_MI</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/North_America/Laredo</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/North_America/Las_Vegas</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/North_America/Leon_De_Guanajuato</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/North_America/Lethbridge_AB__Canada</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/North_America/Lexington</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/North_America/Lincoln_NE</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/North_America/Little_Rock_AR</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/North_America/London_On_Canada</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/North_America/Los_Angeles</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/North_America/Louisville_USA</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/North_America/Madison</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/North_America/Managua</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/North_America/Manchester_NH_USA</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/North_America/Mc_Allen_USA</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/North_America/Medford</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/North_America/Medicine_Hat_AB__Canada</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/North_America/Memphis_TN_USA</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/North_America/Merida</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/North_America/Miami</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/North_America/Midland_TX</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/North_America/Milwaukee</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/North_America/Minneapolis</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/North_America/Missoula</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/North_America/Mobile_AL__USA</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/North_America/Modesto_CA_USA</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/North_America/Monroe_USA</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/North_America/Montego_Bay</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/North_America/Monterey_CA</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/North_America/Montreal_USA</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/North_America/Montrose_CO</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/North_America/Morelia_Mexico</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/North_America/Muskegon</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/North_America/Myrtle_Beach</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/North_America/Nanaimo</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/North_America/Nash_Ville</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/North_America/Nassau</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/North_America/New_Burg</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/North_America/New_Orleans</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/North_America/Norfolk</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/North_America/North_Bend_USA</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/North_America/Oakland</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/North_America/Oaxaca</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/North_America/Oklahoma</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/North_America/Omaha</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/North_America/Ontario</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/North_America/Orange_Country</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/North_America/Orlando</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/North_America/Ottawa</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/North_America/Oxnard</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/North_America/Paducah</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/North_America/Palm_Springs</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/North_America/Panama_City</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/North_America/Pasco_WA</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/North_America/Pensacola</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/North_America/Penticton</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/North_America/Peoria</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/North_America/Philadelphia</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/North_America/Phoenix_USA</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/North_America/Pittsburgh</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/North_America/Portland_ME</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/North_America/Portland_oregon</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/North_America/Providence_USA</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/North_America/Puerto_Vallarta</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/North_America/Punta_Cana</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/North_America/Quebec_CA</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/North_America/Raleigh_durham</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/North_America/Rapid_City</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/North_America/Redding_Ca</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/North_America/Redmond_OR</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/North_America/Regina_Sa</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/North_America/Reno</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/North_America/Richmond_Va</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/North_America/Roanoke</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/North_America/Rochester</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/North_America/Sacramento</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/North_America/Sadbury</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/North_America/Saginaw_Mi</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/North_America/Saint_Croix</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/North_America/Saint_John_NB</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/North_America/saint_johns_NF</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/North_America/Saint_Kitts</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/North_America/Salt_Lake_City</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/North_America/San_Antonio</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/North_America/San_Francisco</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/North_America/San_Jose_c_Rica</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/North_America/San_Jose_Del_Cabo</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/North_America/San_Jose_USA</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/North_America/San_juan_PR</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/North_America/san_luis_obispo</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/North_America/san_luis_potosi</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/North_America/san_pedro_sula</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/North_America/Santa_barbara</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/North_America/Santa_cruz</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/North_America/Santa_maria_Ca</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/North_America/Sarnia</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/North_America/Saskatoon</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/North_America/sault_ste_marie_Ca</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/North_America/Savannah</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/North_America/Seattle</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/North_America/sioux_falls</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/North_America/Smithers</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/North_America/South_Bend</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/North_America/Spokane</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/North_America/Springfield_IL</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/North_America/Springfield_mo</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/North_America/St_George</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/North_America/St_louis_city</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/North_America/St_Lucia</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/North_America/St_Thomas_Usvi</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/North_America/State_college</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/North_America/Sydney_canada</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/North_America/Syracuse</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/North_America/Tampa</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/North_America/Tampico</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/North_America/Tegucigalpa</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/North_America/Thunder_Bay</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/North_America/Timmins</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/North_America/Toronto</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/North_America/Traverse</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/North_America/Tucson</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/North_America/Tulsa</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/North_America/Vancouver</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/North_America/Veracruz</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/North_America/Victoria_Canada</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/North_America/Villahermosa</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/North_America/West_Palm_Beach</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/North_America/White_plains</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/North_America/Whitehorse_Yt</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/North_America/Wichita</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/North_America/Wilkes_barre</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/North_America/Windsor_Canada</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/North_America/Winnipeg</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/North_America/YellowKnife</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/North_America/Yuma_Az_USA</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/Oceania/Melbourne</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/Oceania/Sydney</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/Oceania/Auckland</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/Oceania/Brisbane</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://theetravel.com/category/Oceania/Adelaide</loc>
+  <lastmod>2018-10-24T19:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+
+
+</urlset>
